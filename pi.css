@@ -1,0 +1,15 @@
+.card{
+    width: 25rem;
+    box-shadow: 5px 5px red;
+}
+
+#si{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.con{
+    background-image: url();
+}
